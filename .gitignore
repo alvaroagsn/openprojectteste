@@ -164,6 +164,7 @@ acme.json
 /frontend/.gitattributes
 /frontend/.gitmodules
 /frontend/.npmrc
+/frontend/.angular
 
 # Ignore the generated backend files
 /backend/.bundle
